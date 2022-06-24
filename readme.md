@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # hello world
-=======
-# hello world
->>>>>>> refs/remotes/origin/master
+# Creating new opportunities for myself
