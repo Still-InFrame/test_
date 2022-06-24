@@ -1,8 +1,4 @@
 # Hi
-<<<<<<< HEAD
-# Hello
-
-# This is a another change to the branch before we add it to the master...
-=======
 # Hello World
->>>>>>> master
+
+# This is a NEW world
