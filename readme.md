@@ -1,4 +1,4 @@
-# this is a comment for the NEW file.
+# This is a comment for the NEW file.
 
 # Creating new opportunities for myself
 
