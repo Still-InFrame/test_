@@ -14,3 +14,5 @@
 # ignore .ds_store file
 
 # ds_file is successfully ignored
+
+# use git "status --ignored" to verify 
