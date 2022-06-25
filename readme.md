@@ -8,3 +8,5 @@
 # How many people will see this change
 
 # changes addded to will be awesome!
+
+# Don't forget to ignore the .ds_store file!
