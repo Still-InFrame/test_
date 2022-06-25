@@ -10,3 +10,5 @@
 # changes addded to will be awesome!
 
 # Don't forget to ignore the .ds_store file!
+
+# ignore .ds_store file
